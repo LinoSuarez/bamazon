@@ -15,4 +15,5 @@ After you enter all the details, you will se the total of your purchase on top o
 to run Bamazon you only need to run the commands: 
 
 > npm install
+and
 > node bamazon
