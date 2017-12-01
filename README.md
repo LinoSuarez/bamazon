@@ -12,8 +12,6 @@ After you enter all the details, you will se the total of your purchase on top o
 
 ![Tirth Image](https://raw.githubusercontent.com/LinoSuarez/bamazon/master/img/Screenshot%202017-11-30%2022.54.20.png)
 
-to run Bamazon you only need to run the commands: 
+to run Bamazon you only need to run the commands after installing npm dependencies: 
 
-> npm install
-and
 > node bamazon
