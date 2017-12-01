@@ -1,3 +1,5 @@
 # bamazon
 
-![First Image](/img/Screenshot 2017-11-30 22.53.49.png)
+If you want to embed images, this is how you do it:
+
+![First Image](https://raw.githubusercontent.com/LinoSuarez/bamazon/master/img/Screenshot%202017-11-30%2022.53.49.png)
